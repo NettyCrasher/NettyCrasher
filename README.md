@@ -3,25 +3,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nettycrasher" alt="nettycrasher" /></a> </p>
 
-- 🔭 I’m working on, [SnowClient](snowclient.xyz)
-
-- 🌱 I’m currently learning **Lua**
-
-- 👯🔭 I’m working on, [Viski Ddos Tool](get-ddos.xyz)
-
-- 🤝 🔭 I’m working on, [MinecraftEthical](MinecraftEthical.dev)
-
-- 👨‍💻 All of my projects are available at [akisa-is.dev](akisa-is.dev)
-
-- 📝 I regularly write articles on [https://discord.gg/meKPVQSFmv](https://discord.gg/meKPVQSFmv)
-
+- 🔭 I'm working on [SnowClient](https://snowclient.xyz)
+- 🌱 I'm currently learning **Lua**
+- 👯 I'm working on [Viski Ddos Tool](https://get-ddos.xyz)
+- 🤝 I'm working on [MinecraftEthical](https://minecraftethical.dev)
+- 👨‍💻 All of my projects are available at [akisa-is.dev](https://akisa-is.dev)
+- 📝 I regularly write articles on [Discord](https://discord.gg/meKPVQSFmv)
 - 💬 Ask me about **A java developer with 5 years experience.**
-
 - 📫 How to reach me **support@akisa-is.dev**
-
-- 📄 Know about my experiences [akisa-is.dev](akisa-is.dev)
-
-- ⚡ Fun fact **Im Friendly**
+- 📄 Know about my experiences [akisa-is.dev](https://akisa-is.dev)
+- ⚡ Fun fact **I'm Friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
