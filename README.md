@@ -5,7 +5,7 @@
 ### *Java Native & Systems Security Engineer*
 
 [![GitHub followers](https://img.shields.io/github/followers/nettycrasher?label=Follow&style=social)](https://github.com/nettycrasher)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@exloitwindow)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@exploitwindow)
 [![Discord Server](https://img.shields.io/discord/meKPVQSFmv?label=Discord&logo=discord&style=social)](https://discord.gg/meKPVQSFmv)
 
 </div>
@@ -78,11 +78,9 @@ I'm a **Systems Security Engineer** and **Java Native Developer** with over **5 
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nettycrasher)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@exploitwindow)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/meKPVQSFmv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@akisa-is.dev)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://akisa-is.dev)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@jnative.dev)
 </div>
 
 ---
