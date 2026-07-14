@@ -5,9 +5,8 @@
 ### *Java Native & Systems Security Engineer*
 
 [![GitHub followers](https://img.shields.io/github/followers/nettycrasher?label=Follow&style=social)](https://github.com/nettycrasher)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@nettycrasher)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@exloitwindow)
 [![Discord Server](https://img.shields.io/discord/meKPVQSFmv?label=Discord&logo=discord&style=social)](https://discord.gg/meKPVQSFmv)
-[![Website](https://img.shields.io/badge/Website-akisa--is.dev-blue?style=flat-square)](https://akisa-is.dev)
 
 </div>
 
@@ -32,10 +31,6 @@ I'm a **Systems Security Engineer** and **Java Native Developer** with over **5 
 | Project | Description | Status |
 |---------|-------------|--------|
 | **[JNative Obfuscator](https://jnative.dev)** | Java bytecode obfuscator with native code integration | 🚧 Lead Contributor |
-| **SnowClient** | High-performance Minecraft utility client | 🔧 In Development |
-| **MinecraftEthical** | Educational security research platform | 📚 Active |
-| **Viski** | Advanced DDoS testing framework (research purposes) | 🧪 Experimental |
-
 ---
 
 ## 💻 Technical Arsenal
