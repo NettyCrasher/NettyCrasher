@@ -1,26 +1,108 @@
-<h1 align="center">Hi 👋, I'm Akisa</h1>
-<h3 align="center">A Java Developer.</h3>
+<div align="center">
+  
+# ⚡ ExploitWindow ⚡
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nettycrasher" alt="nettycrasher" /></a> </p>
+### *Java Native & Systems Security Engineer*
 
-- 🔭 I'm working on [SnowClient](https://snowclient.xyz)
-- 🌱 I'm currently learning **Lua**
-- 👯 I'm working on [Viski Ddos Tool](https://get-ddos.xyz)
-- 🤝 I'm working on [MinecraftEthical](https://minecraftethical.dev)
-- 👨‍💻 All of my projects are available at [akisa-is.dev](https://akisa-is.dev)
-- 📝 I regularly write articles on [Discord](https://discord.gg/meKPVQSFmv)
-- 💬 Ask me about **A java developer with 5 years experience.**
-- 📫 How to reach me **support@akisa-is.dev**
-- 📄 Know about my experiences [akisa-is.dev](https://akisa-is.dev)
-- ⚡ Fun fact **I'm Friendly**
+[![GitHub followers](https://img.shields.io/github/followers/nettycrasher?label=Follow&style=social)](https://github.com/nettycrasher)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@nettycrasher)
+[![Discord Server](https://img.shields.io/discord/meKPVQSFmv?label=Discord&logo=discord&style=social)](https://discord.gg/meKPVQSFmv)
+[![Website](https://img.shields.io/badge/Website-akisa--is.dev-blue?style=flat-square)](https://akisa-is.dev)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@nettycrasher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nettycrasher" height="30" width="40" /></a>
-<a href="https://discord.gg/meKPVQSFmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="meKPVQSFmv" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nettycrasher&" alt="nettycrasher" /></p>
+## 🚀 About Me
+
+I'm a **Systems Security Engineer** and **Java Native Developer** with over **5 years** of experience in:
+
+- **Low-level systems programming** (C/C++/Java Native Interface)
+- **Reverse engineering & binary analysis**
+- **Bytecode manipulation & obfuscation**
+- **Network security & DDoS mitigation**
+- **Game security & anti-cheat systems**
+
+🔧 Currently leading development at **[JNative.dev](https://jnative.dev)** - A next-generation Java bytecode obfuscator leveraging native code injection and runtime polymorphism.
+
+---
+
+## 🛠️ Current Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[JNative Obfuscator](https://jnative.dev)** | Java bytecode obfuscator with native code integration | 🚧 Lead Contributor |
+| **SnowClient** | High-performance Minecraft utility client | 🔧 In Development |
+| **MinecraftEthical** | Educational security research platform | 📚 Active |
+| **Viski** | Advanced DDoS testing framework (research purposes) | 🧪 Experimental |
+
+---
+
+## 💻 Technical Arsenal
+
+### Core Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frameworks & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nettycrasher&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nettycrasher&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nettycrasher&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔥 Featured Contributions
+
+- **[JNative.dev](https://jnative.dev)** - Leading the development of advanced Java bytecode protection
+- **Minecraft Security Research** - Ethical exploitation and security analysis
+- **Network Security Tools** - Developing educational DDoS prevention frameworks
+- **Open Source Contributions** - Multiple security and systems libraries
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nettycrasher)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/meKPVQSFmv)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@akisa-is.dev)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://akisa-is.dev)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Optimizing JNative's bytecode transformation engine
+- Researching advanced anti-debugging techniques
+- Contributing to open-source security frameworks
+- Developing educational content for systems security
+
+---
+
+<div align="center">
+
+### "Security is not a product, but a process."
+
+</div>
